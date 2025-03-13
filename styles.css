@@ -1,0 +1,351 @@
+﻿body {
+    background-image: url(Image/Image_1.gif);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    margin: 0;
+    padding: 0;
+}
+
+.header-box {
+    width: auto;
+    margin-top: -20px;
+    padding: 5px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.53);
+}
+
+.site-name {
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto 20px;
+    overflow: hidden;
+}
+
+.borrow {
+    margin: 0px auto;
+    margin-left: -12%;
+}
+
+.row {
+    padding: 5px;
+}
+
+.save {
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.blacklist {
+    margin: 20px auto;
+    margin-left: 10%
+}
+
+.user-options {
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.user-options a {
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.user-options a:hover {
+    text-decoration: underline;
+}
+
+.admin-options {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.admin-options a {
+    display: block;
+    width: 50px;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.admin-options a:hover {
+    background-color: #0056b3;
+}
+
+.user-info {
+    display: flex;
+    justify-content: center;
+}
+
+.user-info-form {
+    background-color: white;
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.user-info-form input {
+    width: 100%;
+}
+
+body {
+    background-image: url(Image/Image_1.gif);
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+form {
+    width: 80%;
+    margin: 0 auto;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.user-options {
+    text-align: right;
+}
+
+.search-bar {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.search-bar input {
+    padding: 10px;
+    width: 60%;
+}
+
+.search-bar button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.category-bar {
+    margin-top: 15px;
+}
+
+.book-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.borrow-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.title-header {
+    text-align: center;
+}
+
+.history-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.booking-history {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.book {
+    width: calc(33.33% - 20px);
+    margin-right: 20px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.book img {
+    width: 100%;
+    height: auto;
+}
+
+.book-info {
+    margin-top: 10px;
+}
+
+.form {
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+td .href {
+    color: #000;
+    text-decoration: none;
+    margin-left: 0px;
+}
+
+.edit-profile-form {
+    max-width: 400px;
+    margin: 50px auto;
+}
+
+.edit-profile-form label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.edit-profile-form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.edit-profile-form button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+}
+
+.history-table {
+    margin-top: 50px;
+}
+
+.history-table table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.history-table th,
+.history-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+
+.history-table th {
+    background-color: #f2f2f2;
+}
+
+.popup {
+    height: 30%;
+    width: 40%;
+}
+
+#searchInput {
+    width: 80%;
+    border: solid #ccc 2px;
+    border-radius: 5px;
+}
+
+#searchButton {
+    border-radius: 5px;
+}
+
+.book {
+    width: 100%;
+    height: 400px;
+    border-radius: 5px;
+    padding: 10px;
+    margin: auto;
+    overflow: scroll;
+}
+
+.book img {
+    aspect-ratio: 3 / 4;
+}
+
+#bookList {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    gap: 8px;
+}
+
+.book-info .borrow {
+    margin: auto;
+    width: 100%;
+}
+
+/* Màn hình nhỏ hơn 1024px (tablet) */
+@media (max-width: 1024px) {
+    .container {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+/* Màn hình nhỏ hơn 768px (di động ngang) */
+@media (max-width: 768px) {
+    .container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Màn hình nhỏ hơn 480px (di động dọc) */
+@media (max-width: 480px) {
+    .container {
+        grid-template-columns: 1fr;
+        width: 90%;
+    }
+
+    #searchInput {
+        width: 100%;
+    }
+}
+
+/* CSS cho overlay */
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    /* Màu nền semi-transparent */
+    display: none;
+    /* Mặc định ẩn */
+    justify-content: center;
+    align-items: center;
+}
+
+/* CSS cho cửa sổ pop-up */
+.popup {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
