@@ -3,19 +3,19 @@ A simple library management system base on web using HTML, PHP, Javascripts, CSS
 
 ## UI preview
 ### Librarian
-#### Homescreen
+- Homescreen
 ![UI_1](https://github.com/trungdang1503/Library-Management-System/blob/main/Image/UI_1.png)
 
-#### Reader management
+- Reader management
 ![UI_2](https://github.com/trungdang1503/Library-Management-System/blob/main/Image/UI_2.png)
 
-#### Book management
+- Book management
 ![UI_3](https://github.com/trungdang1503/Library-Management-System/blob/main/Image/UI_3.png)
 
-#### Book borrow management
+- Book borrow management
 ![UI_4](https://github.com/trungdang1503/Library-Management-System/blob/main/Image/UI_4.png)
 
-#### Book appointment management
+- Book appointment management
 ![UI_5](https://github.com/trungdang1503/Library-Management-System/blob/main/Image/UI_5.png)
 
 ### Reader homesreen
