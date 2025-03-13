@@ -18,7 +18,8 @@ A simple library management system base on web using HTML, PHP, Javascripts, CSS
 - Book appointment management
 ![UI_5](https://github.com/trungdang1503/Library-Management-System/blob/main/Image/UI_5.png)
 
-### Reader homesreen
+### Reader
+- Homesreen
 ![UI_6](https://github.com/trungdang1503/Library-Management-System/blob/main/Image/UI_6.png)
 
 ## Project setup
