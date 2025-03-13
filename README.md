@@ -1,7 +1,12 @@
 # Library-Management-System
 A simple library management system base on web using HTML, PHP, Javascripts, CSS and using MySQL for database.
 
-![UI_1](https://github.com/trungdang1503/Library-Management-System/blob/main/Image/UI_1.png)
+## UI preview
+### Admin
+- Ammin 1
+    - Admin 2
+
+     ![UI_1](https://github.com/trungdang1503/Library-Management-System/blob/main/Image/UI_1.png)
 
 ![UI_2](https://github.com/trungdang1503/Library-Management-System/blob/main/Image/UI_2.png)
 
