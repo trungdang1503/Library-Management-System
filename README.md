@@ -4,7 +4,7 @@ A simple library management system base on web using HTML, PHP, Javascripts, CSS
 ## UI preview
 ### Librarian
 #### Homescreen
-![UI_1](https://github.com/trungdang1503/Library-Management-System/blob/main/Image/UI_1.png){style="border: 3px solid red; border-radius: 5px;"}
+![UI_1](https://github.com/trungdang1503/Library-Management-System/blob/main/Image/UI_1.png)
 
 #### Reader management
 ![UI_2](https://github.com/trungdang1503/Library-Management-System/blob/main/Image/UI_2.png)
