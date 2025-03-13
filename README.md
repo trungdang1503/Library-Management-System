@@ -34,3 +34,7 @@ MySQL script named "library.sql" located on "Database" folder. Setup and run it 
 
 ### Run the project
 You can you XAMPP to run this project as localhost on browser.
+
+## Document
+You also can viewing my project document
+[View document](https://github.com/trungdang1503/Library-Management-System/blob/main/Docs/CT501H_B2112019_DangTriTrung_Baocao.pdf)
